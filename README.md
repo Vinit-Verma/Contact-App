@@ -1,3 +1,6 @@
+This is a primary version of a React app called 'Contact App' where you can save, read and delete a contact.
+I am planning to upload a new version of this app soon with edit functionality and using React-Router in it.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
